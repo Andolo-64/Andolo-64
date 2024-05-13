@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Andolo-64's Stats](https://github-readme-stats.vercel.app/api?username=Andolo-64&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 <!--
 **Andolo-64/Andolo-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
